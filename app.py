@@ -43,7 +43,9 @@ website_url = [
     'https://crayonsthecreativeschool.in',
     'https://gopalmedicals.in',
     'https://apply.studyabroadnetworks.com',
-    'https://studyabroadnetworks.com'
+    'https://studyabroadnetworks.com',
+    'https://slp.tltechnologies.net',
+    'bakery.tltechnologies.net',    
 ]
 
 statuses = {
