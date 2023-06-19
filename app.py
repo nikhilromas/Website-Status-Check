@@ -45,7 +45,7 @@ website_url = [
     'https://apply.studyabroadnetworks.com',
     'https://studyabroadnetworks.com',
     'https://slp.tltechnologies.net',
-    'bakery.tltechnologies.net',    
+    'https://bakery.tltechnologies.net'    
 ]
 
 statuses = {
