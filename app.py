@@ -44,8 +44,10 @@ website_url = [
     'https://gopalmedicals.in',
     'https://apply.studyabroadnetworks.com',
     'https://studyabroadnetworks.com',
-    'https://slp.tltechnologies.net',
-    'https://bakery.tltechnologies.net'    
+    'https://bakery.tltechnologies.net',
+    'https://cateringdemo.tltechnologies.net',
+    'https://connect.tltechnologies.net',
+    'https://ramlaspickle.in'
 ]
 
 statuses = {
